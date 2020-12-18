@@ -4,11 +4,6 @@
 
 ![alt text](02-Annotation/images/anno1.jpg "annotation1")
 
-**Annotation account Credential -**
-
-**Mail - asma.trabelsi@al-enterprise.com**
-
-**Password - December@2020**
 
 2) In the next page, create a project by clicking on "Create Project"
 ![alt text](02-Annotation/images/anno2.jpg "annotation2")
